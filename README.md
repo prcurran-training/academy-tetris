@@ -1,4 +1,4 @@
-# academy-tetris
+# academy-tetris # 
 
 
 Basic HTML/ CSS/ JavaScript tutorial 
@@ -9,12 +9,14 @@ TO DO:
 Tetris:
 
 Key Functions:
-      - Initialisation of the Game space
-      - Creation of 3 "Bricks"
-      - left, right, down moves enabled
+
+      * Initialisation of the Game space
+      * Creation of 3 "Bricks"
+      * left, right, down moves enabled
 
 Key Missing Features:
-      - Scoring function
-      - Rotation manoveur 
-      - Style
-      - Relative positioning 
+
+      * Scoring function
+      * Rotation manoveur 
+      * Style
+      * Relative positioning 
