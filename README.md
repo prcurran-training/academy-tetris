@@ -1,5 +1,10 @@
 # academy-tetris # 
 
+Training:
+
+HTML + 1
+CSS + 1
+JavaScript + 1
 
 Basic HTML/ CSS/ JavaScript tutorial 
 
